@@ -1,0 +1,40 @@
+body{
+    background-color: #cad5a4;
+    color:#362c1e;
+    font-family: 'Nunito Sans', sans-serif;
+
+
+}   
+h3{
+ color:#56704b;
+ font-size: 30px;
+    
+
+}
+
+/*Estos es un comentario*/
+
+h1{
+    color:#524835;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+img{
+   width: 410px;
+   height: 310px;
+   border-style: groove;
+   margin-left: 40px;
+   margin-bottom: 15px;
+   padding: 10px;
+}
+.img1{
+    width: 450px;
+    height: 350px;
+}
+.img2{
+    width: auto;
+
+}
+a, small{
+    color:#454e24
+}
